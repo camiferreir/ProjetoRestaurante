@@ -41,6 +41,10 @@ tb_mesa – Controla as mesas e seus status (livre/ocupada).
 tb_pedidos – Registra os pedidos realizados pelos clientes.
 tb_usuarios – Armazena os dados de login e senha dos usuários do sistema.
 
+SCRIPT DO BANCO DE DADOS:
+Criação do banco de dados e tabelas
+ — Use este script para configurar o banco de dados revisaobanco e conectar o seu projeto no NetBeans IDE.
+
 ⚙️ Operações CRUD
 O sistema implementa as quatro operações básicas de manipulação de dados:
 
