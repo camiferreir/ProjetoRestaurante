@@ -25,10 +25,13 @@ JDBC para conexão com o banco de dados
 📂 Estrutura do Projeto
 src/
 ├── dao/         # Classes responsáveis pela comunicação com o banco de dados
+
 ├── dto/         # Classes com atributos, getters e setters
+
 ├── view/        # Telas gráficas (interfaces feitas em Swing)
+
 ├── icones/      # Ícones utilizados nas interfaces gráficas
-└── main/        # Classe principal para execução do sistema
+
 
 🗃️ Banco de Dados
 
